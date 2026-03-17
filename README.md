@@ -87,10 +87,6 @@ A standalone notebook version (`Parity_Notebook.ipynb`) is included for direct u
 4. The two sides are compared and `Parity_Diff` is set accordingly
 5. Results are written back to the copy and the layer is added to the active map
 
-For a full explanation of the concept see the [Plain Language Guide](docs/plain_language_guide.md).
-For technical implementation details see the [Technical Reference](docs/technical_reference.md).
-For toolbox parameter and deployment details see the [Toolbox Reference](docs/toolbox_reference.md).
-
 ---
 
 ## Reading the Results
@@ -117,9 +113,9 @@ A cluster of `Yes` segments on a single street typically indicates the entire st
 
 | Document | Description |
 |---|---|
-| [Plain Language Guide](docs/plain_language_guide.md) | Concept and methodology written for all skill levels |
-| [Technical Reference](docs/technical_reference.md) | Algorithm, data model, and implementation details |
-| [Toolbox Reference](docs/toolbox_reference.md) | Parameters, validation, and troubleshooting for the `.pyt` tool |
+| [Plain Language Guide](https://github.com/A-Charvin/Parity-QA-911/wiki/Plain-Language-Guide) | Concept and methodology written for all skill levels |
+| [Technical Reference](https://github.com/A-Charvin/Parity-QA-911/wiki/Technical-Reference) | Algorithm, data model, and implementation details |
+| [Toolbox Reference](https://github.com/A-Charvin/Parity-QA-911/wiki/Toolbox-Reference) | Parameters, validation, and troubleshooting for the `.pyt` tool |
 
 ---
 
